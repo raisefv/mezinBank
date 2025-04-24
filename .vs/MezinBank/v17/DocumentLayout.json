@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\\u041C\u0435\u0437\u0438\u043D\\\u043C\u0430\u0442\u044B\u0441\u0438\u043A\\MezinBank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C583A586-D95C-4625-8313-06565183041B}|MezinBank.csproj|c:\\dev\\\u043C\u0435\u0437\u0438\u043D\\\u043C\u0430\u0442\u044B\u0441\u0438\u043A\\mezinbank\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C583A586-D95C-4625-8313-06565183041B}|MezinBank.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C583A586-D95C-4625-8313-06565183041B}|MezinBank.csproj|c:\\dev\\\u043C\u0435\u0437\u0438\u043D\\\u043C\u0430\u0442\u044B\u0441\u0438\u043A\\mezinbank\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C583A586-D95C-4625-8313-06565183041B}|MezinBank.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C583A586-D95C-4625-8313-06565183041B}|MezinBank.csproj|c:\\dev\\\u043C\u0435\u0437\u0438\u043D\\\u043C\u0430\u0442\u044B\u0441\u0438\u043A\\mezinbank\\classes\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C583A586-D95C-4625-8313-06565183041B}|MezinBank.csproj|solutionrelative:classes\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C583A586-D95C-4625-8313-06565183041B}|MezinBank.csproj|c:\\dev\\\u043C\u0435\u0437\u0438\u043D\\\u043C\u0430\u0442\u044B\u0441\u0438\u043A\\mezinbank\\classes\\bankacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C583A586-D95C-4625-8313-06565183041B}|MezinBank.csproj|solutionrelative:classes\\bankacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\dev\\\u041C\u0435\u0437\u0438\u043D\\\u043C\u0430\u0442\u044B\u0441\u0438\u043A\\MezinBank\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\dev\\\u041C\u0435\u0437\u0438\u043D\\\u043C\u0430\u0442\u044B\u0441\u0438\u043A\\MezinBank\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-24T16:14:52.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\dev\\\u041C\u0435\u0437\u0438\u043D\\\u043C\u0430\u0442\u044B\u0441\u0438\u043A\\MezinBank\\Classes\\Transaction.cs",
+              "RelativeDocumentMoniker": "Classes\\Transaction.cs",
+              "ToolTip": "C:\\dev\\\u041C\u0435\u0437\u0438\u043D\\\u043C\u0430\u0442\u044B\u0441\u0438\u043A\\MezinBank\\Classes\\Transaction.cs",
+              "RelativeToolTip": "Classes\\Transaction.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:42:56.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BankAcc.cs",
+              "DocumentMoniker": "C:\\dev\\\u041C\u0435\u0437\u0438\u043D\\\u043C\u0430\u0442\u044B\u0441\u0438\u043A\\MezinBank\\Classes\\BankAcc.cs",
+              "RelativeDocumentMoniker": "Classes\\BankAcc.cs",
+              "ToolTip": "C:\\dev\\\u041C\u0435\u0437\u0438\u043D\\\u043C\u0430\u0442\u044B\u0441\u0438\u043A\\MezinBank\\Classes\\BankAcc.cs",
+              "RelativeToolTip": "Classes\\BankAcc.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:40:38.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\dev\\\u041C\u0435\u0437\u0438\u043D\\\u043C\u0430\u0442\u044B\u0441\u0438\u043A\\MezinBank\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\dev\\\u041C\u0435\u0437\u0438\u043D\\\u043C\u0430\u0442\u044B\u0441\u0438\u043A\\MezinBank\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAMcBAAAAAAAAAAAgwOcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T16:14:51.912Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
